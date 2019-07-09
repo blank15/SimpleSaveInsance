@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movie Katalog</string>
+
+    <string name="cari">Cari</string>
+    <string name="masukkan_kata_kunci">Masukkan Kata Kunci</string>
+    <string name="nama_movie">Nama Movie</string>
+    <string name="text_deksripsi">Text Deksripsi</string>
+    <string name="title_activity_detail_movie">DetailMovie</string>
+    <string name="tgl_rilis">Tanggal rilis</string>
+    <string name="rating">Rating</string>
+</resources>
